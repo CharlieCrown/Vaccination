@@ -26,5 +26,3 @@ Bonus:
 <img src="./IMG/vacc4.PNG" alt="Tips" height="500">
 <img src="./IMG/vacc5.PNG" alt="Call" height="500">
 <img src="./IMG/vacc6.PNG" alt="Footer" height="500">
-
-[Volver al menú &ldca;](../README.md "Regresar a página principal")
